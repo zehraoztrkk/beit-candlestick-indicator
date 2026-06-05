@@ -1,0 +1,8 @@
+gradio
+torch
+torchvision
+huggingface_hub
+opencv-python-headless
+matplotlib
+transformers
+scikit-learn
